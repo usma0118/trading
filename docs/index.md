@@ -1,4 +1,4 @@
-# Trading learning
+# Basic
 
 ## Learn economy
 
